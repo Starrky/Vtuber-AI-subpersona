@@ -206,6 +206,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 /pyproject.toml
-/uv.lock
 .idea
-
+tts_loop.py
+torchtest.py
+/tts_output/
